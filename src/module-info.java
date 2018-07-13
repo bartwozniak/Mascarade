@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author bartosz
+ *
+ */
+module mascarade {
+}
