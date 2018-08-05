@@ -10,6 +10,7 @@ public class Play {
 			new King()
 		};
 		
+		System.out.println(cards);
 	}
 
 }
